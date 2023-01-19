@@ -16,5 +16,3 @@ if (result == 0)
 {
     Console.WriteLine($"Третьей цифры нет");
 }
-
-
