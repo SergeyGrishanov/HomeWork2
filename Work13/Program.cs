@@ -6,7 +6,7 @@ int number = int.Parse(Console.ReadLine()!);
 
 int result = number / 100;
 
-while (result > 10)
+if (result > 10)
 {
     result = result % 10;
 }
